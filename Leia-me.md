@@ -1,0 +1,1 @@
+Nesta pasta contém o código do Jogo da Batalha dos Magos em JavaScript, CSS e Html, é bem simples, na mesma pasta que temos o Index (o jogo) também temos as imagens utilizadas nele, podendo ser facilmente alteradas, tanto nas pastas como no código.
